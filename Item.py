@@ -8,3 +8,4 @@ class Item:
         self.image = ""
         self.description = ""
 
+

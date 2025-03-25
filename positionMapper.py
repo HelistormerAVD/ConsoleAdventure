@@ -21,3 +21,4 @@ class PositionMapper:
                 return True
             else:
                 return False
+
